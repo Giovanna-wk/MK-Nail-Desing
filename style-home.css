@@ -1,0 +1,49 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
+p {
+    text-align: center
+}
+
+strong {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: 100%;
+}
+
+li {
+    font-style: italic;
+}
+
+.beneficios {   
+    background: rgb(255, 255, 255);
+    padding: 20px;
+
+
+}
+
+.principal {
+    background-color: rgb(153, 148, 151);
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+
+
+}
